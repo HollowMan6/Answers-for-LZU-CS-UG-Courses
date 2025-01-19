@@ -1,5 +1,7 @@
 # 兰州大学我的计算机本科课程和选修课 我的代码及答案
 
+[<img src="https://api.gitsponsors.com/api/badge/img?id=214094656" height="90" width="1" align="right">](https://api.gitsponsors.com/api/badge/link?p=9EkC63TwIjvBOwcH9vbvYmYXtX0PN7K6+Qhxd21Ovr3IZpH6oW8GbbdAHti+OUh/vMhlGh2/ol617ATa3UycN4cdDWUobfXqMTmanMsS+VWxU5/i/9A1yblGX6EdLTfwtrrMlIOYHGdhf50U6Kfghw==)
+
 [![last-commit](https://img.shields.io/github/last-commit/HollowMan6/Answers-for-My-LZU-UG-Courses)](../../graphs/commit-activity)
 
 [![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers)
